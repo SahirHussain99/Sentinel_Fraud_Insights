@@ -30,3 +30,10 @@ This project delivers a deep-dive quantitative risk assessment of a financial tr
 * **Modeling & Verification:** Excel (Descriptive statistics matrix and validation verification)
 * **Framework:** Multi-conditional logical scanning (`CASE WHEN`), Data Segment Aggregations (`GROUP BY`), and Defensive System Ratio Calculations (`NULLIF`).
 
+
+## Strategic Recommendations
+Calibrate Gateway Restrictions: Immediately deprecate strict block parameters for transactions under $250 to mitigate the current 106.8:1 false alarm impact.
+
+Implement Temporal Scaling: Integrate a backend modifier that escalates step-up identity validation routing for vectors executed between 2:00 AM and 5:00 AM.
+
+Target Isolated Multi-Vectors: Hardcode rules triggering real-time multi-factor handshakes specifically for high-risk channels matching location <> home_city combined with standard Net Banking methods on handheld hardware.
